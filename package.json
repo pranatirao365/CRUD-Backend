@@ -1,0 +1,12 @@
+{
+  "name": "student-crud-api",
+  "version": "1.0.0",
+  "description": "Simple student CRUD API for a lab activity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
